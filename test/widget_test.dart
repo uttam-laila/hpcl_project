@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:maps_sample/maps_polyline.dart';
+import 'package:maps_sample/pages/maps_polyline.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
